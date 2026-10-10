@@ -1,0 +1,7 @@
+1 venv/
+2 __pycache__/
+3 .pytest_cache/
+4 *.pyc
+5 .DS_Store
+6 .vscode/
+
